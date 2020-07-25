@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "TestConsoleApp/1.0.0": {
+        "dependencies": {
+          "FunkyArrays": "1.0.0"
+        },
+        "runtime": {
+          "TestConsoleApp.dll": {}
+        }
+      },
+      "FunkyArrays/1.0.0": {
+        "runtime": {
+          "FunkyArrays.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TestConsoleApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FunkyArrays/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

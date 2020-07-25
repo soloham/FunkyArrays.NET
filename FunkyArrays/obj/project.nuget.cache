@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "MhqLRhvrnAoHh/AU1omf1EUtzEAKJUKbjwy6HCxQCnQ1pTxCcgzyAcH8p5oA/+WrgtqWPK5PBP4gpTyXUJSr0g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bapk6\\source\\repos\\InterviewTask\\FunkyArrays\\FunkyArrays.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bapk6\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\bapk6\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

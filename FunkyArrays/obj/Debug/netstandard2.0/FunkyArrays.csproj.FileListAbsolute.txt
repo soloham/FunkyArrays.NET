@@ -1,0 +1,9 @@
+C:\Users\bapk6\source\repos\InterviewTask\FunkyArrays\bin\Debug\netstandard2.0\FunkyArrays.deps.json
+C:\Users\bapk6\source\repos\InterviewTask\FunkyArrays\bin\Debug\netstandard2.0\FunkyArrays.dll
+C:\Users\bapk6\source\repos\InterviewTask\FunkyArrays\bin\Debug\netstandard2.0\FunkyArrays.pdb
+C:\Users\bapk6\source\repos\InterviewTask\FunkyArrays\obj\Debug\netstandard2.0\FunkyArrays.csprojAssemblyReference.cache
+C:\Users\bapk6\source\repos\InterviewTask\FunkyArrays\obj\Debug\netstandard2.0\FunkyArrays.csproj.CoreCompileInputs.cache
+C:\Users\bapk6\source\repos\InterviewTask\FunkyArrays\obj\Debug\netstandard2.0\FunkyArrays.AssemblyInfoInputs.cache
+C:\Users\bapk6\source\repos\InterviewTask\FunkyArrays\obj\Debug\netstandard2.0\FunkyArrays.AssemblyInfo.cs
+C:\Users\bapk6\source\repos\InterviewTask\FunkyArrays\obj\Debug\netstandard2.0\FunkyArrays.dll
+C:\Users\bapk6\source\repos\InterviewTask\FunkyArrays\obj\Debug\netstandard2.0\FunkyArrays.pdb

@@ -1,0 +1,16 @@
+C:\Users\bapk6\source\repos\InterviewTask\TestConsoleApp\bin\Debug\netcoreapp3.1\TestConsoleApp.exe
+C:\Users\bapk6\source\repos\InterviewTask\TestConsoleApp\bin\Debug\netcoreapp3.1\TestConsoleApp.deps.json
+C:\Users\bapk6\source\repos\InterviewTask\TestConsoleApp\bin\Debug\netcoreapp3.1\TestConsoleApp.runtimeconfig.json
+C:\Users\bapk6\source\repos\InterviewTask\TestConsoleApp\bin\Debug\netcoreapp3.1\TestConsoleApp.runtimeconfig.dev.json
+C:\Users\bapk6\source\repos\InterviewTask\TestConsoleApp\bin\Debug\netcoreapp3.1\TestConsoleApp.dll
+C:\Users\bapk6\source\repos\InterviewTask\TestConsoleApp\bin\Debug\netcoreapp3.1\TestConsoleApp.pdb
+C:\Users\bapk6\source\repos\InterviewTask\TestConsoleApp\bin\Debug\netcoreapp3.1\FunkyArrays.dll
+C:\Users\bapk6\source\repos\InterviewTask\TestConsoleApp\bin\Debug\netcoreapp3.1\FunkyArrays.pdb
+C:\Users\bapk6\source\repos\InterviewTask\TestConsoleApp\obj\Debug\netcoreapp3.1\TestConsoleApp.csprojAssemblyReference.cache
+C:\Users\bapk6\source\repos\InterviewTask\TestConsoleApp\obj\Debug\netcoreapp3.1\TestConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\bapk6\source\repos\InterviewTask\TestConsoleApp\obj\Debug\netcoreapp3.1\TestConsoleApp.AssemblyInfoInputs.cache
+C:\Users\bapk6\source\repos\InterviewTask\TestConsoleApp\obj\Debug\netcoreapp3.1\TestConsoleApp.AssemblyInfo.cs
+C:\Users\bapk6\source\repos\InterviewTask\TestConsoleApp\obj\Debug\netcoreapp3.1\TestConsoleApp.csproj.CopyComplete
+C:\Users\bapk6\source\repos\InterviewTask\TestConsoleApp\obj\Debug\netcoreapp3.1\TestConsoleApp.dll
+C:\Users\bapk6\source\repos\InterviewTask\TestConsoleApp\obj\Debug\netcoreapp3.1\TestConsoleApp.pdb
+C:\Users\bapk6\source\repos\InterviewTask\TestConsoleApp\obj\Debug\netcoreapp3.1\TestConsoleApp.genruntimeconfig.cache
