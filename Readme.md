@@ -1,4 +1,4 @@
-## Introduction
+# Introduction
 This a .NET Standard 2.0 Class Library for relatively complex manipulation of arrays without using any built in methods
 
 # Specifications
